@@ -1,0 +1,26 @@
+{
+  "name": "html_css",
+  "version": "1.0.0",
+  "description": "Zadanei 2",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthovv/Zadanie_2_html_css.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Artur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthovv/Zadanie_2_html_css/issues"
+  },
+  "homepage": "https://github.com/arthovv/Zadanie_2_html_css#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
