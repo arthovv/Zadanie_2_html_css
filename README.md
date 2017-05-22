@@ -15,3 +15,5 @@ Chciałbym zobaczyć jak najlepsze jakościowo wykonania przy założeniu, że k
 Dodatkowe punkty za:
 
 Wsparcie innych przeglądarkach
+
+https://arthovv.github.io/Zadanie_2_html_css/
